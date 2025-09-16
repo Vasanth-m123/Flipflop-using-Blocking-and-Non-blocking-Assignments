@@ -201,5 +201,4 @@ endmodule
 <img width="1887" height="1069" alt="Screenshot 2025-09-16 202106" src="https://github.com/user-attachments/assets/84c22986-22db-47bd-bae2-83486b8fc712" />
 
 # Conclusion:
-
 thus the respected output of the flip flop is successfully verified.
